@@ -1,3 +1,3 @@
 Tech
 --------
-nw + angular.js + jquery + bootstrap + markdown + node.js + git
+python + tkinter + pyvim + pygit

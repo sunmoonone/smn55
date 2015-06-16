@@ -1,1 +1,1 @@
-# smn55 - mynote
+# mia - my intelligent assistant

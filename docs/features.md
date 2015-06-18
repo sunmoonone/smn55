@@ -26,10 +26,11 @@ decrypt data into editor for reading and editing
 ### chat
 
 * chat with mia
+* chat with others as my delegation
 * do some assistant job:
 
 	* weather report
-	* dictionary
+	* dictionary(word picker) (stardict dictionary data)
 	* encyclopedia
 
 ### reading books
@@ -38,6 +39,7 @@ decrypt data into editor for reading and editing
 
 ### machine learning
 
+* analyze my notes and events 
 * teach mia to learn:
 
 	* math
@@ -46,3 +48,6 @@ decrypt data into editor for reading and editing
 	* sound recognition
 	* video recognition
 
+### working
+
+* build html pages in a simple language or by drawing

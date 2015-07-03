@@ -1,11 +1,16 @@
 features
 --------
 
-### encryption and sync
+### privacy
+
+* encryption and sync
 
 all data is encrypted 
 sync data using git
 decrypt data into editor for reading and editing
+
+* lock
+multi-lock-code: different code unlock different feature and ui 
 
 ### note
 

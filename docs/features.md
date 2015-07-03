@@ -11,7 +11,7 @@ decrypt data into editor for reading and editing
 
 * render html
 * markdown format
-* edit in vim 
+* edit in vim mode 
 * note tree
 * insert image
 

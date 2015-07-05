@@ -10,7 +10,7 @@ sync data using git: config some non-sync note or dir and backup them to usb
 decrypt data into editor for reading and editing
 
 * lock
-multi-lock-code: different code unlock different feature and ui 
+multi-lock-code: different code unlock different features and ui 
 
 ### note
 
@@ -32,16 +32,17 @@ multi-lock-code: different code unlock different feature and ui
 ### chat
 
 * chat with mia
-* chat with others as my delegation
+* chat assistant: chat with others as my delegation
 * do some assistant job:
 
 	* weather report
 	* dictionary(word picker) (stardict dictionary data)
 	* encyclopedia
+	* indexing and searching notes
 
 ### reading books
 
-* mia can read out books and news 
+* mia can read aloud books and news 
 
 ### machine learning
 

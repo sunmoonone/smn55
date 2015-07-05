@@ -1,4 +1,4 @@
 Tech
 --------
-ui: electron + coffeescript + react-bootstrap
-python + pygit
+ui: electron + react-bootstrap + coffeescript + css
+python + tkinter + pyvim + pygit

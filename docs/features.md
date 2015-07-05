@@ -1,11 +1,16 @@
 features
 --------
 
-### encryption and sync
+### privacy
+
+* encryption and sync
 
 all data is encrypted 
-sync data using git
+sync data using git: config some non-sync note or dir and backup them to usb
 decrypt data into editor for reading and editing
+
+* lock
+multi-lock-code: different code unlock different feature and ui 
 
 ### note
 
@@ -14,6 +19,7 @@ decrypt data into editor for reading and editing
 * edit in vim mode 
 * note tree
 * insert image
+* link between notes and can back and forward between linked notes
 
 ### calendar and alarm:
 

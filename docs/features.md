@@ -20,6 +20,8 @@ multi-lock-code: different code unlock different features and ui
 * note tree
 * insert image
 * link between notes and can back and forward between linked notes
+* multiple note format(maybe auto-combine)
+* can type text to a box and then insert  it to any order in an ordered-list note
 
 ### calendar and alarm:
 

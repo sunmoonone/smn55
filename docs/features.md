@@ -14,8 +14,11 @@ multi-lock-code: different code unlock different features and ui
 
 ### note
 
+* plot road map by daily activities
 * render html
 * markdown format
+* hyperlink inside doc
+* content table menu for current doc
 * support diagram in plain text syntax
 * edit in vim mode 
 * note tree

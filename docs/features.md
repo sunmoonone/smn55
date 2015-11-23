@@ -57,6 +57,8 @@ multi-lock-code: different code unlock different features and ui
 
 ### machine learning
 
+* reasoning bot
+* able to learn every thing
 * analyze my notes and events 
 * teach mia to learn:
 
